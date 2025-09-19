@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\Sprint 3\FinAssist\src\FinAssist.Core\bin\Debug\net8.0\FinAssist.Core.deps.json
+C:\Users\pc\Desktop\Sprint 3\FinAssist\src\FinAssist.Core\bin\Debug\net8.0\FinAssist.Core.dll
+C:\Users\pc\Desktop\Sprint 3\FinAssist\src\FinAssist.Core\bin\Debug\net8.0\FinAssist.Core.pdb
+C:\Users\pc\Desktop\Sprint 3\FinAssist\src\FinAssist.Core\obj\Debug\net8.0\FinAssist.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Sprint 3\FinAssist\src\FinAssist.Core\obj\Debug\net8.0\FinAssist.Core.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Sprint 3\FinAssist\src\FinAssist.Core\obj\Debug\net8.0\FinAssist.Core.AssemblyInfo.cs
+C:\Users\pc\Desktop\Sprint 3\FinAssist\src\FinAssist.Core\obj\Debug\net8.0\FinAssist.Core.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Sprint 3\FinAssist\src\FinAssist.Core\obj\Debug\net8.0\FinAssist.Core.dll
+C:\Users\pc\Desktop\Sprint 3\FinAssist\src\FinAssist.Core\obj\Debug\net8.0\refint\FinAssist.Core.dll
+C:\Users\pc\Desktop\Sprint 3\FinAssist\src\FinAssist.Core\obj\Debug\net8.0\FinAssist.Core.pdb
+C:\Users\pc\Desktop\Sprint 3\FinAssist\src\FinAssist.Core\obj\Debug\net8.0\ref\FinAssist.Core.dll
